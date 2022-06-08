@@ -1,3 +1,6 @@
+
+<img width="1440" alt="Screen Shot 2022-06-08 at 14 30 31" src="https://user-images.githubusercontent.com/67952319/172639472-bef70597-0fcc-4fa1-a355-f02271837004.png">
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
